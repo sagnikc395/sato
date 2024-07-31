@@ -1,0 +1,6 @@
+# dune init executable sato
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/sagnik3/.cache/dune/db
+# Workspace root: /Users/sagnik3/Desktop/Projects/pl/sato
+# Auto-detected concurrency: 8
